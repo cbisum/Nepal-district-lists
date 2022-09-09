@@ -1,0 +1,23 @@
+{
+  "name": "nepal-district-list",
+  "version": "1.0.0",
+  "description": "List of Nepal's district",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbisum/Nepal-district-lists.git"
+  },
+  "keywords": [
+    "nepal",
+    "district"
+  ],
+  "author": "cbisum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbisum/Nepal-district-lists/issues"
+  },
+  "homepage": "https://github.com/cbisum/Nepal-district-lists#readme"
+}

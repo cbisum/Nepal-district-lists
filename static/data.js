@@ -1,4 +1,4 @@
-const DATA = [
+module.exports = [
     {
       district_name: "Bhojpur",
       total_area: "1,507",
